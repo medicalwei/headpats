@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/bin/env python3
 import pygame,math
 from pygame.constants import *
 import sys
