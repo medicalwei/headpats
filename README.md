@@ -4,8 +4,8 @@
  I've included sample images for [a windows 3.1 icon](https://twitter.com/win_icons/status/1215392811354247168) and [my twitter avatar](https://twitter.com/Foone). 
 
 ## Requirements:
-* [Python 2.7](https://www.python.org/)
-* [pygame](https://www.pygame.org/news) (tested with 1.9.5)
+* [Python 3](https://www.python.org/) (tested with 3.7.6)
+* [pygame](https://www.pygame.org/news) (tested with 1.9.6)
 
 ## Customizing
 
